@@ -4,3 +4,5 @@ Introduction Commands
 -- git commit -m "MESSAGE"
 -- git branch -v => "BRANCH STATUS"
 -- git checkout -b "BRANCH NAME"
+-- git fetch -all => Fetch all remote changes
+-- git remote -v => List of remotes
